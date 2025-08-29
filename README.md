@@ -22,11 +22,11 @@ A Python tool to clean and prepare MailChimp subscriber exports for importing in
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/mailchimp-to-convertkit.git
+git clone https://github.com/cseeman/mailchimp-to-convertkit
 cd mailchimp-to-convertkit
 ```
 
-2. Make the script executable (optional):
+2. Make the script executable (optional but probably needed):
 ```bash
 chmod +x mailchimp_to_convertkit.py
 ```
