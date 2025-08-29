@@ -1,0 +1,12 @@
+# MailChimp to ConvertKit Converter
+# No external dependencies required - uses only Python standard library
+# 
+# Python 3.6+ required for:
+# - f-strings
+# - pathlib
+# - typing hints (if added in future)
+#
+# For development/testing (optional):
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0

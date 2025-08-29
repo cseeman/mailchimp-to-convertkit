@@ -1,0 +1,11 @@
+"First Name","Last Name",Phone,"Email Address",Address,Apt.,City,State,Zip,EMAIL_TYPE,MEMBER_RATING,OPTIN_TIME,OPTIN_IP,CONFIRM_TIME,CONFIRM_IP,GMTOFF,DSTOFF,TIMEZONE,CC,REGION,LAST_CHANGED,LEID,EUID,NOTES,TAGS
+John,Doe,,john.doe@example.com,,,,,,html,2,"2024-01-15 10:30:00",,"2024-01-15 10:30:00",,'-6,'-5,america/chicago,US,il,"2024-01-15 10:30:00",12345,abc123,,"""Newsletter Subscribers"""
+Jane,Smith,555-0123,jane.smith@example.com,"123 Main St",,"New York",NY,10001,html,4,"2024-01-10 14:20:00",,"2024-01-10 14:20:00",,'-5,'-4,america/new_york,US,ny,"2024-01-10 14:20:00",12346,def456,,"""VIP Customers"""
+Bob,Johnson,,bob.johnson@example.com,,,,,,html,3,"2024-01-12 09:15:00",,"2024-01-12 09:15:00",,,,,,,"2024-01-12 09:15:00",12347,ghi789,,"""Newsletter Subscribers"";""Discount Seekers"""
+Alice,Williams,555-0124,alice.williams@example.com,"456 Oak Ave",,"Los Angeles",CA,90210,html,5,"2024-01-08 16:45:00",,"2024-01-08 16:45:00",,'-8,'-7,america/los_angeles,US,ca,"2024-01-08 16:45:00",12348,jkl012,,"""Premium Members"""
+Charlie,Brown,,charlie.brown@example.com,,,,,,html,2,"2024-01-18 11:30:00",,"2024-01-18 11:30:00",,,,,,,"2024-01-18 11:30:00",12349,mno345,,
+"Mary Jane",Watson,,mj.watson@example.com,,,,,,html,3,"2024-01-20 13:22:00",,"2024-01-20 13:22:00",,,,,,,"2024-01-20 13:22:00",12350,pqr678,,"""Newsletter Subscribers"""
+David,"O'Connor",,david.oconnor@example.com,,,,,,html,2,"2024-01-14 08:30:00",,"2024-01-14 08:30:00",,,,,,,"2024-01-14 08:30:00",12351,stu901,,"""Event Attendees"""
+"Sarah & Mike",Johnson,,sarahmike@example.com,,,,,,html,4,"2024-01-16 12:00:00",,"2024-01-16 12:00:00",,,,,,,"2024-01-16 12:00:00",12352,vwx234,,"""Couples List"""
+,Martinez,,no.firstname@example.com,,,,,,html,2,"2024-01-17 15:45:00",,"2024-01-17 15:45:00",,,,,,,"2024-01-17 15:45:00",12353,yz567,,"""Incomplete Profiles"""
+Test,,invalid.email.com,,,,,,html,1,"2024-01-19 10:00:00",,"2024-01-19 10:00:00",,,,,,,"2024-01-19 10:00:00",12354,bad123,,"""Test Contacts"""
